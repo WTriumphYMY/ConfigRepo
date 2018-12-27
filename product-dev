@@ -6,3 +6,4 @@ spring:
     url: jdbc:mysql://localhost:3306/SpringCloud_Sell?characterEncoding=utf-8
   jpa:
     show-sql: true
+env: dev
